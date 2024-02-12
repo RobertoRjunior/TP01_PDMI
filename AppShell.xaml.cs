@@ -1,4 +1,4 @@
-/* Eduarda Matias e Stefany  */
+/* Roberto Junior  */
 ﻿namespace TP01___PDM
 {
     public partial class AppShell : Shell
